@@ -58,11 +58,11 @@ Kết quả:
 
 ## ⚙️ Công nghệ sử dụng
 - **Ngôn ngữ**: Python 3.10+
-- **Machine Learning**: `SentenceTransformers`, `scikit-learn`, `BERTopic`
+- **Machine Learning & NLP**: SentenceTransformers (embedding & semantic similarity), scikit-learn (mô hình ML truyền thống), BERTopic (chủ đề & phân cụm văn bản)
 - **Data Processing**: `pandas`, `numpy`
 - **Visualization**: `Plotly`, `Matplotlib`, `Seaborn`
 - **Search & Retrieval**: Cosine Similarity, Faiss
-- **Deployment**: REST API / Flask (tùy chọn)
+- **Deployment**: REST API / Flask 
 
 ---
 
