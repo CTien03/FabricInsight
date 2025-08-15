@@ -108,5 +108,5 @@ Dự án được phân phối theo giấy phép MIT – tự do sử dụng, ch
 
 ## 📧 Liên hệ
 - **Tác giả**: Nguyễn Tiên
-- **Email**: camtienn031103.email@example.com
+- **Email**: camtienn031103@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/ti%C3%AAn-nguy%E1%BB%85n-6a6704354/
