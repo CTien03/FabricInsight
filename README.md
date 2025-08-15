@@ -43,7 +43,7 @@ Kết quả:
 
 ---
 
-## 📊 Pipeline Hệ Thống
+## 📊 Pipeline
 
 <p align="center">
   <img src="./fabric_insight_pipeline.png" 
