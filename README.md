@@ -93,11 +93,6 @@ Kết quả:
 
 ---
 
-## 📜 Giấy phép
-Dự án được phân phối theo giấy phép MIT – tự do sử dụng, chỉnh sửa và phân phối.
-
----
-
 ## 🤝 Đóng góp
 1. Fork repo
 2. Tạo branch mới (`feature/ten-tinh-nang`)
